@@ -437,10 +437,10 @@
                 var td = $('<td>');
                 td.text(count);
                 if (count==todayOfmonth){
-                    td.addClass("bg-warning rounded-circle")
+                    td.addClass("text-primary")
                 }
                 if (count==dayOfmonth){
-                        td.addClass("text-primary")
+                        td.addClass("bg-warning rounded-circle")
                 } 
                 count++;
                 tr.append(td);
@@ -458,10 +458,10 @@
                     td = $('<td>');
                     td.text(count);
                     if (count==todayOfmonth){
-                        td.addClass("bg-warning rounded-circle")
+                        td.addClass("text-primary")
                     }
                     if (count==dayOfmonth){
-                        td.addClass("text-primary")
+                        td.addClass("bg-warning rounded-circle")
                     }          
                     count++;
                     tr.append(td);
