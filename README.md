@@ -1,4 +1,4 @@
 # Homework-5-1
 Daily planner
-https://raed-ra.github.io/Homework-5-1/
+https://raed-ra.github.io/H5-DailyActivityPlanner/
 # Homework-5-1
